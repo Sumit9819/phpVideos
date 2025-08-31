@@ -20,7 +20,7 @@ $player_url = "https://{$_SERVER['HTTP_HOST']}{$_SERVER['REQUEST_URI']}";
 <head>
     <meta charset="UTF-8">
     <title>My Video</title>
-    <meta name="twitter:card" content="player">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@SharmaSumi35464"> <!-- Replace with your X username -->
     <meta name="twitter:title" content="My Awesome Video">
     <meta name="twitter:description" content="Check out this video streamed from Cloudinary!">
